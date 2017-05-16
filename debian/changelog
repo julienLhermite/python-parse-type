@@ -1,0 +1,5 @@
+python-parse-type (0.3.4-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #862725)
+
+ -- Brian May <bam@debian.org>  Tue, 16 May 2017 19:01:30 +1000

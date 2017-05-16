@@ -1,0 +1,3 @@
+version=2
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/parse_type-$1\.tar\.gz/ \
+  https://github.com/jenisys/parse_type/tags .*/v?(\d\S+)\.tar\.gz
