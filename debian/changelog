@@ -1,6 +1,7 @@
 python-parse-type (0.3.4-3) UNRELEASED; urgency=medium
 
   * d/control: Set Vcs-* to salsa.debian.org
+  * d/copyright: Fix Format URL to correct one
 
  -- Ondřej Nový <onovy@debian.org>  Tue, 13 Feb 2018 10:04:52 +0100
 
