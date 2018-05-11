@@ -11,8 +11,8 @@ Build-Depends:
     python3-pytest, python3-pytest-runner, python3-six, python3-parse,
 Standards-Version: 3.9.8
 Homepage: https://github.com/pytest-dev/parse-type/
-Vcs-Git: https://github.com/scibian/python-parse-type
-Vcs-Browser: https://github.com/scibian/python-parse-type.git
+Vcs-Git: https://github.com/scibian/python-parse-type.git
+Vcs-Browser: https://github.com/scibian/python-parse-type
 
 Package: python-parse-type
 Architecture: all
