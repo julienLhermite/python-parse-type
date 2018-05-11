@@ -1,6 +1,5 @@
 Source: python-parse-type
-Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
-Uploaders: Brian May <bam@debian.org>
+Maintainer: Scibian Project <packaging@scibian.org> 
 Section: python
 Priority: optional
 Build-Depends:
@@ -12,8 +11,8 @@ Build-Depends:
     python3-pytest, python3-pytest-runner, python3-six, python3-parse,
 Standards-Version: 3.9.8
 Homepage: https://github.com/pytest-dev/parse-type/
-Vcs-Git: https://anonscm.debian.org/git/python-modules/packages/python-parse-type.git
-Vcs-Browser: https://anonscm.debian.org/cgit/python-modules/packages/python-parse-type.git
+Vcs-Git: https://github.com/scibian/python-parse-type
+Vcs-Browser: https://github.com/scibian/python-parse-type.git
 
 Package: python-parse-type
 Architecture: all
