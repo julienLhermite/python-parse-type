@@ -4,7 +4,6 @@ python-parse-type (0.3.4-2sci9u1) scibian9; urgency=low
 
  -- Julien Lhermite <julien.lhermite@edf.fr> Fri, 11 May 2018 15:00:33 +0200
 
-
 python-parse-type (0.3.4-2) unstable; urgency=medium
 
   * Two files have different copyright. Make sure these are properly
